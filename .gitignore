@@ -1,4 +1,7 @@
 venv/
+venv_old/
 __pycache__/
 .env
 *.egg-info/
+logs/
+.vscode/
