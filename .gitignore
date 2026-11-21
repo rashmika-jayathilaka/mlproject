@@ -6,3 +6,5 @@ __pycache__/
 logs/
 .vscode/
 catboost_info/
+notebook/1 . EDA STUDENT PERFORMANCE .ipynb
+notebook/2. MODEL TRAINING.ipynb
